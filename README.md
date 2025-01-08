@@ -48,10 +48,10 @@
 ## 🛠️ Projects
 
 ### 🌟 Featured Projects
-- **[Project Name](https://github.com/thethtwe-dev/flutter-crud-advanced)**  
+- **[Flutter Shop](https://github.com/thethtwe-dev/flutter-crud-advanced)**  
   🚀 A Flutter app showcasing a modern, dynamic UI.
 
-- **[Project Name](https://github.com/thethtwe-dev/node-crud-api)**  
+- **[Node Shop Server](https://github.com/thethtwe-dev/node-crud-api)**  
   🔧 A Node.js API with seamless backend performance.
 
 ---
