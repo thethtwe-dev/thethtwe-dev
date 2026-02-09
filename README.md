@@ -57,15 +57,6 @@ I'm a passionate developer who loves bridging the gap between **Application Deve
 
 ---
 
-## 📂 Featured Projects
-
-| 📱 **Application** | 🎮 **Game / Backend** |
-|:---:|:---:|
-| **[Flutter Shop App](https://github.com/thethtwe-dev/flutter-crud-advanced)** <br> _Advanced Flutter UI with State Management_ | **[Node/Nest API](https://github.com/thethtwe-dev/node-crud-api)** <br> _Scalable REST API architecture_ |
-| **Buddhist Prayer App** <br> _Content focused app with Cloudflare R2 integration_ | **Poker Game Logic** <br> _Real-time game logic using Cocos & NestJS_ |
-
----
-
 <div align="center">
   <p>📫 <b>Let's build something amazing together!</b></p>
 </div>
